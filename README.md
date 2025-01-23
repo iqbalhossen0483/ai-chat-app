@@ -23,3 +23,35 @@ This document provides an overview of the AI Chat App, detailing its features, t
 - **TypeScript**: Ensures type safety and better code maintainability.
 - **Axios**: Handles HTTP requests efficiently.
 - **TanStack Query**: Provides a robust mechanism for managing server state and caching.
+
+- ### The Application is deployed on Vercel.
+
+  deployment link: https://ai-chat-app-ruby.vercel.app/
+
+- ## Installation
+
+  To run the application locally, follow these steps:
+
+  - Clone the repository:
+
+  ```bash
+  git clone https://github.com/iqbalhossen0483/ai-chat-app.git
+  ```
+
+  - Navigate to the project directory:
+
+  - Install the dependencies:
+
+  ```bash
+  npm install
+  ```
+
+  - Start the
+
+  ```bash
+  npm start
+  ```
+
+  The application will be accessible at http://localhost:3000.
+
+  ## finally Add the env file I"ll provide you
