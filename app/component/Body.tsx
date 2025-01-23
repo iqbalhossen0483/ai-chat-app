@@ -74,7 +74,7 @@ const Body = ({ response, update }: { response: string; update: boolean }) => {
           <div>
             <LuBrain size={28} className='text-purple-700' />
           </div>
-          <div>
+          <div className='markdown-body overflow-x-auto scroll'>
             <Markdown remarkPlugins={[remarkGfm]}>{response}</Markdown>
           </div>
         </div>
